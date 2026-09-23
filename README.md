@@ -1,6 +1,6 @@
 # Aqeel Akbar
 
-**UX Engineer / Design Engineer**
+**Senior UX Designer/ UX Engineer
 
 I work between product design and frontend engineering, making complex information easier to understand, use and trust. I shape the interaction, work through the product decisions and build the interface, with a focus on design systems, accessibility and AI-assisted products.
 
