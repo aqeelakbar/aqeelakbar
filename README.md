@@ -14,4 +14,4 @@ For design-system work in a production setting, see my [accessibility and compon
 
 **Working with:** React, TypeScript, Next.js, Vue, design systems, accessibility and Figma.
 
-[Portfolio](https://portfolio-website-chi-three-67.vercel.app) · [LinkedIn](https://www.linkedin.com/in/akbaraqeel/)
+[Portfolio](https://www.aqeelakbar.me) · [LinkedIn](https://www.linkedin.com/in/akbaraqeel/)
